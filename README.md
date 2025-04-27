@@ -1,5 +1,5 @@
-# Shevanya
-Team Assignment Project
+#Team Assignment Project
+Selamat pagi Bapak/Ibu dosen, berikut adalah tugas kami. Mohon dikoreksi jika terdapat kesalahan. Terima kasih atas perhatiannya.
 
 Tugas Praktikum 2 - Kelompok
 Week 7 Group-6
