@@ -2,9 +2,8 @@
 Team Assignment Project
 
 Tugas Praktikum 2 - Kelompok
-Week 7
+Week 7 Group-6
 
-Group-6
 MUHAMMAD FAHMI AFFAN
 2802546872
 Computer Science
